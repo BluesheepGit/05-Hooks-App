@@ -1,0 +1,19 @@
+body{
+
+    padding: 70px;
+
+
+}
+
+.form-group{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+blockquote{
+    text-align: right;
+}
+
+button{
+    margin: 5px;
+}
